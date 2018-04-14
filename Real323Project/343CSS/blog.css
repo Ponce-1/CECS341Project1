@@ -24,7 +24,7 @@ nav li {
 
 }
 .jumbotron{
-  background: url("/assets/acdc.jpg")top center;
+  background: url("../assets/acdc.jpg")top center;
   background-size: cover;
   margin-top: 1em;
   color:white;

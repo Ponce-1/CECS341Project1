@@ -23,7 +23,11 @@ nav li {
   padding: 0px 100px;
   background-color: #e5e5e5;
 }
+.dropdown-menu{
+  padding: 0px 0px 0px;
+  margin-left: 100px;
 
+}
 .jumbotron{
   background: url("../assets/acdc.jpg")top center;
   background-size: cover;
