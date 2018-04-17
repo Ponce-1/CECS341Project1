@@ -109,9 +109,11 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   background-color: #f9f9f9;
   border-top: .05rem solid #e5e5e5;
+  background-color: #1b1b1b;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
+  background-color: #1b1b1b;
 }
 .navbar-brand {
   padding-top: .75rem;
